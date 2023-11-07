@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.bg {
+	height: 870px;
+	width: 1440px;
+}
+
+.conteiner {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 16px;
+}
+
+.here-text {
+	font-family: 'Cardo', serif;
+	font-weight: 700;
+	font-size: 32px;
+	color: #232323;
+	justify-content: space-between;
+	height: 590px;
+	width: 310px;
+}
+
+.here-text p {
+	width: 16px;
+}
+
+.here-text button {
+	height: 8px;
+	width: 24px;
+	color: #232323;
+	text-decoration-color: #e9e7e7;
+}
+

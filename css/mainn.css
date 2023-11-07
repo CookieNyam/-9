@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.conteiner {
+	width: 100%;
+	max-width: 1440px;
+	margin: 0 auto;
+	padding: 0 16px;
+}
+
+.here {
+	display: flex;
+	justify-content: space-between;
+}
+
+.here-right {
+	display: flex;
+	flex-direction: column;
+    justify-content: space-between;
+    max-width: 980px;
+}
+
+.here-right h2 {
+	font-size: 32px;
+	color: #232323;
+	line-height: 1;
+}
+
+.here-right p {
+	font-size: 16px;
+	text-align: justify;
+}
+
+.here-right button {
+	color: white;
+	background-color: #232323;
+	padding: 8px 24px;
+	border-radius: 6px;
+	cursor: pointer;
+	border: none;
+}
